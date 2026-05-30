@@ -31,3 +31,8 @@ I am **Arham**, the founding moderator of **NanoTech Code** (also known as 3D Sk
 
 ### When did I start my profile on 2025?
 Well, most apparently, getting a free GitHub account is what I did on November, but even with **ChromeOS 139**, I was past **34 GB of storage** with **127% usage**. So, I deleted my downloads folder, and Google Drive, but I did delete my browsing history and data, but at last I have the passwords! So I got in, and **can finally code on GitHub**. Let me know that **I used to code on GitHub Copilot**, but came back. Moderators joined GitHub and I **joined them**. At January, I was busy with other high tech products like Windows XP 2026 and even a **Google 2015 clone**. Guys do not call us suspicious because moderators can not follow people by their admin.
+
+
+### My stats:
+
+![My STATS](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=UserArham&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)
