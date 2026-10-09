@@ -36,3 +36,11 @@ Well, most apparently, getting a free GitHub account is what I did on November, 
 ### My stats:
 
 ![My STATS](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=UserArham&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)
+
+
+
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
