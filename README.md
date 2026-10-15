@@ -38,6 +38,15 @@ Well, most apparently, getting a free GitHub account is what I did on November, 
 ![My STATS](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=UserArham&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)
 
 
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="22"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/curl-073551?style=flat&logo=curl&logoColor=white" height="22"/>
+</p>
+
+
 
 
 <p align="center">
