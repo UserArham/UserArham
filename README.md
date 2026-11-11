@@ -54,9 +54,9 @@ https://github.com/user-attachments/assets/15f00555-6c13-473d-9f70-79768638873a
 
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&pause=1000&color=A8ADFF&width=435&lines=I+support+you.+Lets+reach+to+100!)](https://git.io/typing-svg)
+---
 
-
-## If you unfollowed me, follow me or else I enter your hippocampus.
 
 
 
