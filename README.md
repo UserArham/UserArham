@@ -52,13 +52,12 @@ Well, most apparently, getting a free GitHub account is what I did on November, 
 https://github.com/user-attachments/assets/15f00555-6c13-473d-9f70-79768638873a
 
 
+  ![https://img.shields.io/github/stars/UserArham](https://img.shields.io/github/stars/UserArham)
+  ![](https://img.shields.io/github/followers/UserArham)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&pause=1000&color=A8ADFF&width=435&lines=I+support+you.+Lets+reach+to+100!)](https://git.io/typing-svg)
 ---
-
-
-  ![](https://img.shields.io/github/stars/UserArham)
-  ![](https://img.shields.io/github/followers/UserArham)
 
 
 
