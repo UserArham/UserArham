@@ -49,7 +49,6 @@ Well, most apparently, getting a free GitHub account is what I did on November, 
 
 
 
-
 https://github.com/user-attachments/assets/15f00555-6c13-473d-9f70-79768638873a
 
 
@@ -58,7 +57,8 @@ https://github.com/user-attachments/assets/15f00555-6c13-473d-9f70-79768638873a
 ---
 
 
-
+ ![](https://img.shields.io/github/stars/UserArham)
+  ![](https://img.shields.io/github/followers/UserArham)
 
 
 
