@@ -17,7 +17,7 @@ I am **Arham**, the founding moderator of **NanoTech Code** (also known as 3D Sk
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | HTML5, CSS3, JavaScript, Markdown |
+| **Languages** | HTML5, CSS3, JavaScript, Markdown, Python, Shell, TypeScript, and vibing |
 | **Tools** | GitHub Actions, Git, VS Code |
 | **Specialties** | System Architecture, Community Management, Documentation |
 
