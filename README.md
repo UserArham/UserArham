@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am **Arham**, the founding moderator of **NanoTech Code** (also known as 3D Skyline Code, formerly "Sprunki"?). I lead a community of 100+ moderators dedicated to building epic coding systems.
+I am **Arham**, the founding moderator of **iTech Code** (also known as 3D Skyline Code, formerly NanoTech Code). I lead a community of 100+ users dedicated to building epic coding systems.
 
 ### 🛠️ Roles & Responsibilities
 *   **Founding Moderator**: Overseeing the development and community standards of NanoTech Code.
@@ -47,14 +47,12 @@ Well, most apparently, getting a free GitHub account is what I did on November 2
 </p>
 
 
-
+ ![](https://komarev.com/ghpvc/?username=UserArham&color=3e1e10&style=plastic&label=hybrids)
 
 https://github.com/user-attachments/assets/15f00555-6c13-473d-9f70-79768638873a
 
-
   ![https://img.shields.io/github/stars/UserArham](https://img.shields.io/github/stars/UserArham)
   ![](https://img.shields.io/github/followers/UserArham)
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&pause=1000&color=A8ADFF&width=435&lines=I+support+you.+Lets+reach+to+100!)](https://git.io/typing-svg)
 ---
