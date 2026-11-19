@@ -38,6 +38,9 @@ Well, most apparently, getting a free GitHub account is what I did on November 2
 ![My STATS](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=UserArham&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)
 
 
+
+![UserArham's GitHub stats](https://github-readme-stats.vercel.app/api?username=UserArham&show_icons=true&theme=tokyonight&hide_border=true)
+
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
