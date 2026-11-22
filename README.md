@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/241672494?v=4" width="150" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">Arham</h1>
+<h1 align="center">Arham (UserArham)</h1>
 
 ## 🚀 About Me
 
