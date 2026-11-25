@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am **Arham**, the founding moderator of **iTech Code+**. I lead a community of 100+ users dedicated to building epic coding systems.
+I am **Arham**, the founding moderator of **iTech Code+**. I lead a community of 117 users (this will be updated) dedicated to building epic coding systems.
 
 ### 🛠️ Roles & Responsibilities
 *   **Founding Moderator**: Overseeing the development and community standards of iTech Code.
