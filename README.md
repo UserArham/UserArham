@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am **Arham**, the founding moderator of **iTech Code** (also known as 3D Skyline Code, formerly NanoTech Code, also formerly known as NanoTech "Sprunki" Code...). I lead a community of 100+ users dedicated to building epic coding systems.
+I am **Arham**, the founding moderator of **iTech Code+**. I lead a community of 100+ users dedicated to building epic coding systems.
 
 ### 🛠️ Roles & Responsibilities
 *   **Founding Moderator**: Overseeing the development and community standards of iTech Code.
