@@ -8,7 +8,6 @@
    Information (SVG) : ![](https://img.shields.io/github/stars/UserArham)
    ![](https://img.shields.io/github/followers/UserArham)
 
-
 ## 🚀 About Me
 
 I am **Arham**, the founding moderator of **iTech Code+**. I lead a community of 117 users (this will be updated) dedicated to building epic coding systems.
@@ -59,6 +58,7 @@ Well, most apparently, getting a free GitHub account is what I did on November 2
 
 https://github.com/user-attachments/assets/15f00555-6c13-473d-9f70-79768638873a
 
+
   ![](https://img.shields.io/github/stars/UserArham)
   ![](https://img.shields.io/github/followers/UserArham)
 
@@ -73,6 +73,10 @@ https://github.com/user-attachments/assets/15f00555-6c13-473d-9f70-79768638873a
 | **ScratchEMU** | An emulator for older Scratch versions like 0.1 all the way to 1.4.0.7: [**Source**](https://github.com/UserArham/ScratchEMU) |
 | **Eaglercraft 17w48a** | An attempt to port Minecraft 17w48a into a web browser: [**Source**](https://github.com/UserArham/Eaglercraft-17w48a) |
 | **Tuff Client 1.20.6** | <img width="1362" height="767" alt="713018221-8471a07f-0271-4376-abf8-08d7056f9fd4" src="https://github.com/user-attachments/assets/e0da9450-c5c2-40c6-bbec-dc2be052cb7b" /> |
+
+
+
+Meet my Scratch account: [**Arham3846 in Scratch**](https://scratch.mit.edu/users/Arham3846)
 
 
 <p align="center">
