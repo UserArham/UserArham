@@ -60,7 +60,13 @@ https://github.com/user-attachments/assets/15f00555-6c13-473d-9f70-79768638873a
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&pause=1000&color=A8ADFF&width=435&lines=I+support+you.+Lets+reach+to+100!)](https://git.io/typing-svg)
 ---
 
+## My Best Works
 
+| Repo | Notes |
+| :--- | :--- |
+| **MiniLLM** | An open-source LLM running in your browser: [**Source**](https://github.com/UserArham/MiniLLM) |
+| **ScratchEMU** | An emulator for older Scratch versions like 0.1 all the way to 1.4.0.7: [**Source**](https://github.com/UserArham/ScratchEMU) |
+| **Eaglercraft 17w48a** | An attempt to port Minecraft 17w48a into a web browser: [**Source**](https://github.com/UserArham/Eaglercraft-17w48a) |
 
 
 <p align="center">
