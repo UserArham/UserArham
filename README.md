@@ -4,6 +4,11 @@
 
 <h1 align="center">Arham (UserArham)</h1>
 
+
+   Information (SVG) : ![](https://img.shields.io/github/stars/UserArham)
+   ![](https://img.shields.io/github/followers/UserArham)
+
+
 ## 🚀 About Me
 
 I am **Arham**, the founding moderator of **iTech Code+**. I lead a community of 117 users (this will be updated) dedicated to building epic coding systems.
@@ -54,7 +59,7 @@ Well, most apparently, getting a free GitHub account is what I did on November 2
 
 https://github.com/user-attachments/assets/15f00555-6c13-473d-9f70-79768638873a
 
-  ![https://img.shields.io/github/stars/UserArham](https://img.shields.io/github/stars/UserArham)
+  ![](https://img.shields.io/github/stars/UserArham)
   ![](https://img.shields.io/github/followers/UserArham)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&pause=1000&color=A8ADFF&width=435&lines=I+support+you.+Lets+reach+to+100!)](https://git.io/typing-svg)
