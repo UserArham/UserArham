@@ -1,16 +1,21 @@
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/241672494?v=4" width="150" style="border-radius: 50%;">
-  <img src="https://github.com/user-attachments/assets/7563f030-d75f-44dc-967e-f9162c82b6fe" width="150" style="border-radius: 50%;/>
+  <img
+    src="https://github.com/user-attachments/assets/7563f030-d75f-44dc-967e-f9162c82b6fe"
+    width="150"
+    style="border-radius: 50%;"
+  />
 </p>
 
----
-
----
 <h1 align="center">Arham (UserArham)</h1>
 
+My personal README of my account, including my best works, my roles, my skills, when did I start my profile, and more stuff!
 
-   Information (SVG) : ![](https://img.shields.io/github/stars/UserArham)
-   ![](https://img.shields.io/github/followers/UserArham)
+<h2 align="center">Information - How Much Stars and Followers I Have</h2>
+
+**Information (SVG)**: <img src="https://img.shields.io/github/stars/UserArham"/> <img src="https://img.shields.io/github/followers/UserArham" /> 
+
+
 
 ## 🚀 About Me
 
