@@ -41,7 +41,7 @@ I am **Arham**, the founding moderator of **iTech Code+**. I lead a community of
 </p>
 
 ---
-📫 **How to reach me**: Sorry, r/Sprunki4 got banned. Consider YouTube?
+📫 **How to reach me**: Email me at **githubusables74@gmail.com**. 
 
 ### When did I start my profile on 2025?
 Well, most apparently, getting a free GitHub account is what I did on November 2025, but even with **ChromeOS 142**, I was past near 31 GB with **96% usage**. So, I deleted my downloads folder, and Google Drive, but I did delete my browsing history and data, but at last I have the passwords! So I got in, and **can finally code on GitHub**. Let me know that **I used to code on GitHub Copilot**, but came back. iTech is actually a VSCode team, not **GitHub**. At October to November 2026, I was busy with other high tech products like ScratchEMU and even **NetScratch / Scratch 2.0 on a browser**. 
