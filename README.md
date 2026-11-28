@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/7563f030-d75f-44dc-967e-f9162c82b6fe"
+    src="https://avatars.githubusercontent.com/u/241672494?v=4"
     width="150"
     style="border-radius: 50%;"
   />
